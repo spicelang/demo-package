@@ -1,0 +1,8 @@
+public f<string> hello() {
+  return "Hello";
+}
+
+public f<string> world() {
+  return "World";
+}
+

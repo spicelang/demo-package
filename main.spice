@@ -1,0 +1,5 @@
+import "./demo";
+
+f<int> main() {
+  printf("%s %s!\n", hello(), world());
+}
