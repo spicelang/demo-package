@@ -1,0 +1,11 @@
+[package]
+name = "demo-package"
+version = "1.0.0"
+description = "Demo Package for testing Spice Shaker & Spice Rack"
+license = "MIT"
+authors = ["Marc Auberer <marc.auberer@chillibits.com>"]
+repository = "https://github.com/spicelang/demo-project"
+spice = ">=0.29.0"
+entry = "src/demo.spice"
+
+[dependencies]
