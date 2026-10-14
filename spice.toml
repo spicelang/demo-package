@@ -1,6 +1,6 @@
 [package]
 name = "demo-package"
-version = "1.0.0"
+version = "1.0.1"
 description = "Demo Package for testing Spice Shaker & Spice Rack"
 license = "MIT"
 authors = ["Marc Auberer <marc.auberer@chillibits.com>"]
